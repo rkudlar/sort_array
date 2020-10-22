@@ -20,3 +20,4 @@ while i < array.length-1
 end
 array.delete(nil)
 puts array.to_s
+# В масив добавляло значення nil і я його просто видалив з масиву
